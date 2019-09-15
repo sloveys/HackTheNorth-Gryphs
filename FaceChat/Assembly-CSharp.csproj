@@ -190,6 +190,11 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\Internal\GvrCursorHelper.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\Internal\SuppressMemoryAllocationErrorAttribute.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+     <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\PlayListener.cs" />
+     <Compile Include="Assets\Youe++\Gaze UI\Exemple\Scripts\AnimatorUtility.cs" />
+     <Compile Include="Assets\Youe++\Gaze UI\Exemple\Scripts\SmoothMouseLook.cs" />
+     <Compile Include="Assets\Youe++\Gaze UI\Scripts\EyeRaycaster.cs" />
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
      <None Include="Assets\3DTOYS\readme.txt" />
      <None Include="Assets\GoogleVR\Shaders\GvrAdditiveOverlay.shader" />
@@ -422,19 +427,7 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.9f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity">
- <HintPath>C:/Users/Samue/Documents/Hackathons/Hack_The_North/HackTheNorth-Gryphs/FaceChat/Assets/FacebookSDK/Plugins/Facebook.Unity.dll</HintPath>
- </Reference>
- <Reference Include="Facebook.Unity.Gameroom">
- <HintPath>C:/Users/Samue/Documents/Hackathons/Hack_The_North/HackTheNorth-Gryphs/FaceChat/Assets/FacebookSDK/Plugins/Gameroom/Facebook.Unity.Gameroom.dll</HintPath>
- </Reference>
- <Reference Include="FacebookNamedPipeClient">
- <HintPath>C:/Users/Samue/Documents/Hackathons/Hack_The_North/HackTheNorth-Gryphs/FaceChat/Assets/FacebookSDK/Plugins/Gameroom/FacebookNamedPipeClient.dll</HintPath>
- </Reference>
- <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/Samue/Documents/Hackathons/Hack_The_North/HackTheNorth-Gryphs/FaceChat/Assets/FacebookSDK/Plugins/Settings/Facebook.Unity.Settings.dll</HintPath>
- </Reference>
- <Reference Include="Google.ProtocolBuffers">
- <HintPath>C:/Users/Samue/Documents/Hackathons/Hack_The_North/HackTheNorth-Gryphs/FaceChat/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ <HintPath>D:/Projects/HackTheNorth-Gryphs/FaceChat/Assets/FacebookSDK/Plugins/Facebook.Unity.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Gameroom">
  <HintPath>D:/Projects/HackTheNorth-Gryphs/FaceChat/Assets/FacebookSDK/Plugins/Gameroom/Facebook.Unity.Gameroom.dll</HintPath>
@@ -444,6 +437,18 @@
  </Reference>
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>D:/Projects/HackTheNorth-Gryphs/FaceChat/Assets/FacebookSDK/Plugins/Settings/Facebook.Unity.Settings.dll</HintPath>
+ </Reference>
+ <Reference Include="Google.ProtocolBuffers">
+ <HintPath>D:/Projects/HackTheNorth-Gryphs/FaceChat/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.Editor">
+ <HintPath>D:/Projects/HackTheNorth-Gryphs/FaceChat/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.StandardEvents">
+ <HintPath>D:/Projects/HackTheNorth-Gryphs/FaceChat/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.Tracker">
+ <HintPath>D:/Projects/HackTheNorth-Gryphs/FaceChat/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.9f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
