@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/M_kin/OneDrive/Desktop/test.apk
+C:/Users/Samue/Documents/Hackathons/Hack_The_North/HackTheNorth-Gryphs/FaceChat/FaceChat.apk
 SceneListBegin?
 Assets/Scenes/LobbyScene.unity
 Assets/Scenes/PlayScene.unity
