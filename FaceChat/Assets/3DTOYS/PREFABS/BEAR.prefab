@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 23477471634162096}
   - component: {fileID: 114430401756656276}
   - component: {fileID: 114694111063455606}
+  - component: {fileID: 114895944629150000}
   m_Layer: 0
   m_Name: BEAR
   m_TagString: Untagged
@@ -125,3 +126,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ShowLobbyGUI: 1
+--- !u!114 &114895944629150000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1258646480729192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb667346d077ead45b1be045e0553f1f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MyGameObject: {fileID: 0}

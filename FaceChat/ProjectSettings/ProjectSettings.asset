@@ -718,10 +718,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: ef0b054b-d36d-4673-a065-ad72dc065f25
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: New Unity Project (3)
+  organizationId: royal-city
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

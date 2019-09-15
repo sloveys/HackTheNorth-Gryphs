@@ -66,6 +66,8 @@
      <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\MainMenu.cs" />
      <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\Pay.cs" />
      <Compile Include="Assets\FlipNormals.cs" />
+     <Compile Include="Assets\Friend.cs" />
+     <Compile Include="Assets\Friends.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Demos\Scripts\DemoObjectController6DoF.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Demos\Scripts\DemoSeeThroughController.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Scripts\GvrBetaControllerInput.cs" />
@@ -191,6 +193,7 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\Internal\SuppressMemoryAllocationErrorAttribute.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Player.cs" />
      <Compile Include="Assets\PlayListener.cs" />
      <Compile Include="Assets\Youe++\Gaze UI\Exemple\Scripts\AnimatorUtility.cs" />
      <Compile Include="Assets\Youe++\Gaze UI\Exemple\Scripts\SmoothMouseLook.cs" />
